@@ -1,0 +1,33 @@
+{
+  "chevaux": [
+    {
+      "id": 1,
+      "name": "cannasson",
+      "price": 100,
+      "quantity": 1,
+      "couleur":"beige"
+    },
+    {
+      "id": 2,
+      "name": "jollyjumper",
+      "price": 200,
+      "quantity": 2,
+      "couleur":"blanc"
+    },
+    {
+      "id": 3,
+      "name": "tornado",
+      "price": 2001,
+      "quantity": 1,
+      "couleur":"noir"
+    },
+    {
+      "id": 4,
+      "name": "petit-tonnerre",
+      "price": 20,
+      "quantity": 100,
+      "couleur":"blanc/noir"
+    }
+  ],
+  "users": []
+}
